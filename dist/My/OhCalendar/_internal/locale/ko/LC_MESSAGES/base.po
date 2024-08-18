@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Calculator"
+msgstr "계산기"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Bold"
+msgstr "굵게"
+
+msgid "Italic"
+msgstr "이탤릭"
+
+msgid "Try \"623+457\""
+msgstr "\"623+457\" 시도"
+
+msgid "OhCalendar - Calculator"
+msgstr "OhCalendar - 계산기"
+
+msgid "Basic"
+msgstr "기본"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "day(s)"
+msgstr "일"
+
+msgid "OhCalendar - Settings"
+msgstr "OhCalendar - 설정"
+
+msgid "Information"
+msgstr "정보"
+
+msgid ""
+"OhCalendar V1.0\n"
+"OhCalendar is a simple calendar software for Windows."
+msgstr ""
+"OhCalendar V1.0\n"
+"OhCalendar는 Windows용 간단한 달력 소프트웨어입니다."
+
+msgid "Language"
+msgstr "언어"
+
+msgid "English"
+msgstr "영어"
+
+msgid "French"
+msgstr "프랑스어"
+
+msgid "Korean"
+msgstr "한국어"
+
+msgid "Theme"
+msgstr "테마"
+
+msgid "Light"
+msgstr "밝게"
+
+msgid "Dark"
+msgstr "어둡게"
+
+msgid "Please restart OhCalendar after you change settings."
+msgstr "설정을 변경한 후 OhCalendar를 재시작해 주세요."
+
+msgid "Error"
+msgstr "오류"
+
+msgid "The memo file is invalid."
+msgstr "메모 파일이 올바르지 않습니다."
+
+msgid "Please enter a valid expression."
+msgstr "올바른 수식을 입력해 주세요."
+
+msgid "The memo file is not found. It will be created."
+msgstr "메모 파일이 올바르지 않습니다. 메모 파일이 생성될 것입니다."

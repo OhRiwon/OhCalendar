@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Calculator"
+msgstr "Calculator"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "Bold"
+msgstr "Bold"
+
+msgid "Italic"
+msgstr "Italic"
+
+msgid "Try \"623+457\""
+msgstr "Try \"623+457\""
+
+msgid "OhCalendar - Calculator"
+msgstr "OhCalendar - Calculator"
+
+msgid "Basic"
+msgstr "Basic"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "day(s)"
+msgstr "day(s)"
+
+msgid "OhCalendar - Settings"
+msgstr "OhCalendar - Settings"
+
+msgid "Information"
+msgstr "Information"
+
+msgid ""
+"OhCalendar V1.0\n"
+"OhCalendar is a simple calendar software for Windows."
+msgstr ""
+"OhCalendar V1.0\n"
+"OhCalendar is a simple calendar software for Windows."
+
+msgid "Language"
+msgstr "Language"
+
+msgid "English"
+msgstr "English"
+
+msgid "French"
+msgstr "French"
+
+msgid "Korean"
+msgstr "Korean"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Please restart OhCalendar after you change settings."
+msgstr "Please restart OhCalendar after you change settings."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "The memo file is invalid."
+msgstr "The memo file is invalid."
+
+msgid "Please enter a valid expression."
+msgstr "Please enter a valid expression."
+
+msgid "The memo file is not found. It will be created."
+msgstr "The memo file is not found. It will be created."

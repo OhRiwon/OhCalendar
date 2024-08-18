@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+
+msgid "Calculator"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "Try \"623+457\""
+msgstr ""
+
+msgid "OhCalendar - Calculator"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "day(s)"
+msgstr ""
+
+msgid "OhCalendar - Settings"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "OhCalendar V1.0\nOhCalendar is a simple calendar software for Windows."
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Please restart OhCalendar after you change settings."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "The memo file is invalid."
+msgstr ""
+
+msgid "Please enter a valid expression."
+msgstr ""
+
+msgid "The memo file is not found. It will be created."
+msgstr ""
